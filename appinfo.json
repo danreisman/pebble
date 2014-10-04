@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "reismans@mdrideas.com",
+    "longName": "Watchface",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Watchface",
+    "uuid": "7dad195d-6b83-403f-812d-05b488709f69",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
